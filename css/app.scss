@@ -1,0 +1,51 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : 21.03.2015, 01:12:38
+    Author     : Florian
+*/
+
+body{
+
+
+    .gallery {
+        li {
+            img{
+                width: 150px;
+                padding: 5px 10px;
+                border: 0;
+            }
+            .participantName {
+                font-weight: bold;
+                text-decoraction: none;
+                text-align: center;
+                display: block;
+                color: black;
+            }
+            width: 150px;
+            height: 240px;
+            overflow: hidden;
+            border: 1px solid #ebebeb;
+            float: left;
+            padding: 10px;
+            margin: 10px;
+            list-style-type: none;
+        }
+    }
+    .categoryTitle {
+        font-size: 18px;
+    }
+    .participantImage {
+        float: right;
+        margin: 10px;
+    }
+    &:after {
+        clear: both;
+    }
+    .activityTable {
+        width: 500px;
+    }
+}

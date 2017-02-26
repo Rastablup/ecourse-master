@@ -1,0 +1,45 @@
+{
+    "PAGETITLE": "TNFG: Beobachtungen",
+    
+    "OVERVIEW": "Übersicht",
+    "NUM_NOTICE": "Anzahl Beobachtungen", 
+    "ACTIVITIES": "Aktivitäten",
+    "PARTICIPANTS": "Teilnehmende",
+    "STATISTICS": "Statistik",
+    "LOGOUT": "Abmelden",
+    "BACK": "Zurück",
+    "PARTICIPANT_BIRTHDAY": "Geburtstag",
+    "PARTICIPANT_GROUP": "Abteilung",
+    "PARTICIPANT_EXPERIENCE": "Erfahrung",
+    "PARTICIPANT_FUNCTION": "Aktuelle Funktion",
+    "PARTICIPANT_SCOUTFUTUREPLANS": "Zukunftspläne in der Pfadi",
+    "PARTICIPANT_MOTIVATIONANDEXPECTINGSFORCOURSE": "Motivation und Erwartungen an den Kurs",
+    "PARTICIPANT_INFOFROMRECOMMENDINGINSTANCE": "Informationen der empfehlenden Instanz",
+    "PARTICIPANT_ADD_NOTICE": "Beobachtung hinzufügen",
+    
+    "ACTIVITY_NUMBER": "Aktivitätsnummer",
+    "ACTIVITY_TITLE": "Titel",
+    "ACTIVITY_DATETIME": "Datum/ Zeit",
+    "ACTIVITY_DELETE": "Aktivität löschen",
+    "ACTIVITY_ADD": "Aktivität hinzufügen",
+    
+    "PARTICIPANT_IMAGE": "Foto",
+    "PARTICIPANT_SCOUTNAME": "Pfadiname",
+    "PARTICIPANT_PRENAME": "Vorname",
+    "PARTICIPANT_NAME": "Name",
+    "PARTICIPANT_EDIT": "Bearbeiten",
+    "PARTICIPANT_DELETE": "Löschen",
+    
+    "NOTICE_DATE": "Datum",
+    "NOTICE_ACTIVITY": "Aktivität",
+    "NOTICE_TIME": "Zeit",
+    "NOTICE_CATEGORY": "Kategorie",
+    "NOTICE_NOTICE": "Beobachtung",
+    "NOTICE_ADD": "Beobachtung hinzufügen",
+    
+    "NUM_TOTAL": "Total",
+    
+    "NOTICE_MODIFY": "Beobachtung bearbeiten",
+    "NOTICE_NOT_SAVE": "Änderungen verwerfen",
+    "NOTICE_DELETE": "Beobachtung löschen"
+}
